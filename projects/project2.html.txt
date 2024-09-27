@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 1</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="../index.html">Home</a>
+            <a href="../about.html">About Me</a>
+            <a href="../contact.html">Contact</a>
+            <a href="../blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <section>
+        <h1>Project 1</h1>
+        <p>Details about Project 1.</p>
+    </section>
+</body>
+</html>

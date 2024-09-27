@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Me</a>
+            <a href="contact.html">Contact</a>
+            <a href="blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <section class="project-grid">
+        <h1>My Projects</h1>
+        <div class="grid">
+            <div class="project">
+                <a href="projects/project1.html">
+                    <img src="images/project1-thumbnail.jpg" alt="Project 1">
+                    <h3>Project 1</h3>
+                </a>
+            </div>
+            <div class="project">
+                <a href="projects/project2.html">
+                    <img src="images/project2-thumbnail.jpg" alt="Project 2">
+                    <h3>Project 2</h3>
+                </a>
+            </div>
+            <!-- Add more projects as needed -->
+        </div>
+    </section>
+</body>
+</html>
